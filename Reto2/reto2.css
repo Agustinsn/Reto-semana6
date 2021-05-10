@@ -1,0 +1,25 @@
+header{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+input{
+    display: inline;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    width: 300px;
+    height: 25px;
+}
+#btn{
+    display: inline;
+    height: 33px;
+    background-color: green;
+    color: white;
+}
+#divenlaces{
+    padding: 1rem;
+}
+td{
+    text-align: center;
+    align-items: center;
+}
